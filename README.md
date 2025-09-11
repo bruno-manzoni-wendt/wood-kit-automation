@@ -24,3 +24,6 @@ RESULTS: Reduction of 70% of missing woods, new KPIs created, and improved commu
 - Excel VBA (GUI and integration with Python)
 - Outlook (automated email drafting)
 - Google Drive (wood list source)
+
+
+> **Disclaimer:** This repository contains scripts that have been modified to replace sensitive information with example placeholders for privacy and portfolio purposes.
